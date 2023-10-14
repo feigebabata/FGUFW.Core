@@ -1,0 +1,26 @@
+{
+  "name": "com.fgbbt.fgufw",
+  "version": "1.0.0",
+  "displayName": "FGUFW",
+  "description": "fgbbt Unity Framework Core",
+  "unity": "2020.3",
+  "unityRelease": "0f1",
+  "documentationUrl": "https://example.com/",
+  "changelogUrl": "https://example.com/changelog.html",
+  "licensesUrl": "https://example.com/licensing.html",
+  "dependencies": {
+    "com.unity.addressables": "1.21.17",
+    "com.unity.collections": "2.1.4"
+
+ },
+ "keywords": [
+    "fgufw",
+    "fgbbt",
+    "framework"
+  ],
+  "author": {
+    "name": "fgufw",
+    "email": "feigebabata@outlook.com",
+    "url": "https://www.unity3d.com"
+  }
+}
